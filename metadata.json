@@ -1,0 +1,6 @@
+{
+  "name": "Telegram Desktop Premium",
+  "description": "Telegram Desktop Web App with real-time messaging, voice notes, theme toggling, profile customization, and interactive chat features.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
